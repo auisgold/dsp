@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2018-01-01
 img: Lab1.png
 alt: image-alt
 project-date: Spring 2018
